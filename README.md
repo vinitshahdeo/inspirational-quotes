@@ -79,7 +79,7 @@ $ node demo.js
 
 ## Oh, Thanks!
 
-Thank you for being here! You can find other Node Packages **[here](https://www.npmjs.com/~vinitshahdeo)**.
+Thank you for being here! You can find other NPM Packages **[here](https://www.npmjs.com/~vinitshahdeo)**.
 
 
 Let's **`get connected`** if we share the same views! 
