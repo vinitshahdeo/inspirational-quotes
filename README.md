@@ -28,7 +28,7 @@ $ npm install inspirational-quotes
 
 ## Usage
 
-- getQuote() method returns an object containing ***text*** and ***author***.
+- ***getQuote()*** method returns an object containing ***text*** and ***author***.
 
 ```json
  {  
@@ -40,7 +40,7 @@ $ npm install inspirational-quotes
  
  
 
-- getRandomQuote() method returns a random **inspirational** quote : *`You miss 100 percent of the shots you don’t take.`*
+- ***getRandomQuote()*** method returns a random **inspirational** quote : *`You miss 100 percent of the shots you don’t take.`*
 
 
 
@@ -73,6 +73,14 @@ $ node demo.js
 ## License
 
 **MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE)**
+
+## Oh, Thanks!
+
+Thank you for being here!
+Let's **`get connected`** if we share the same views! 
+Invite to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
+ 
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/TwitterSentimentAnalysis.svg?style=social)](https://twitter.com/intent/tweet?text=A%20Node%20module%20by%20@Vinit_Shahdeo%20to%20keep%20yourself%20motivated:&url=https://github.com/vinitshahdeo/inspirational-quotes/)
 
 > **One day your life will flash before your eyes. Make sure it is worth watching.**
 
