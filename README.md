@@ -1,4 +1,4 @@
-# celeb-diwali
+# Inspirational Quotes
 
 > A simple node module which returns Inspiring Quotes. It provides awesome quotes to display in your application. Get your daily quote and stay motivated!
 
@@ -8,7 +8,7 @@
 ## Getting started
 
 ```
-$ npm install --save celeb-diwali
+$ npm install --save inspirational-quotes
 ```
 
 ## Installation
@@ -22,48 +22,46 @@ Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
 ```bash
-$ npm install celeb-diwali
+$ npm install inspirational-quotes
 ```
 
 ## Usage
 
 ```js
 
-const diwali = require('celeb-diwali');
-console.log(diwali.getRandomWish());
+const Quote = require('inspirational-quotes');
+console.log(Quote.getRandomQuote());
 
 /*
- May millions of lamps illuminate your life with endless prosperity, health, and wealth forever!
- Wishing you & your family a very Happy Diwali!
+
+`getRandomQuote()` returns a random quote.
+
+ > One day your life will flash before your eyes. Make sure it is worth watching
+
 */
 
-console.log(diwali.sendRandomWish("Vinit"));
+console.log(Quote.getQote());
 
 /*
-May you have all the joy your heart can hold, 
-All the smiles a day can bring, 
-All the blessings a life can unfold, 
-May you get the world’s best in everything. 
-Wishing You Happy Diwali.
-Regards - Vinit
-*/
 
-console.log(diwali.sendDiwaliWish("Shreya","Vinit"));
+Each returned quote is a object containing:
 
-/*
-Hey Shreya,
-A true and caring relation doesn’t have to speak loud, 
-a soft SMS is just enough to express the heartiest feelings. 
-Enjoy the festival of Diwali with lots of fun.
-Wishing You Happy Diwali.
-- Vinit
+- text
+- author
+
+{  
+  "text":"Don’t worry about failure; you only have to be right once.",
+  "from":"Drew Houston, founder of Dropbox"
+}
+
+
 */
 
 ```
 
 ## Examples
 
-  To view the examples, clone the **celeb-diwali** repo and install the dependencies:
+To view the examples, clone the **inspirational-quotes** repo and install the dependencies:
 
 ```bash
 $ git clone https://github.com/vinitshahdeo/celeb-diwali.git
@@ -71,7 +69,7 @@ $ cd examples
 $ npm install
 ```
 
-  Then run whichever example you want:
+Then run the **demo.js**:
 
 ```bash
 $ node demo.js
@@ -79,4 +77,4 @@ $ node demo.js
 
 ## License
 
-MIT &copy; [Vinit Shahdeo](http://vinitshahdeo.com)
+MIT &copy; [Vinit Shahdeo](https://)
