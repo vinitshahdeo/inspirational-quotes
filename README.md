@@ -87,7 +87,7 @@ Invite to connect on **[LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**.
  
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/TwitterSentimentAnalysis.svg?style=social)](https://twitter.com/intent/tweet?text=A%20Node%20module%20by%20@Vinit_Shahdeo%20to%20keep%20yourself%20motivated:&url=https://github.com/vinitshahdeo/inspirational-quotes/)
 
-> **One day your life will flash before your eyes. Make sure it is worth watching.**
+> **One day your life will flash before your eyes. Make sure it is worth watching!**
 
 [![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/inspirational-quotes) 
 [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/GetQuotes)
