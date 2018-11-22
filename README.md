@@ -95,4 +95,5 @@ $ node demo.js
 **MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE)**
 
 [![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/inspirational-quotes) 
-[![Think Big](https://img.shields.io/badge/Think-Big-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/GetQuotes)
+[![Think Big](https://img.shields.io/badge/Think-Big-crimson.svg?style=for-the-badge)](https://github.com/vinitshahdeo/GetQuotes)
+[![Work Hard](https://img.shields.io/badge/Think-Big-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/)
