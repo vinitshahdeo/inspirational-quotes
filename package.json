@@ -1,6 +1,6 @@
 {
   "name": "inspirational-quotes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple node module which returns Inspirational Quotes. Get your daily quote and stay motivated!",
   "main": "index.js",
   "scripts": {

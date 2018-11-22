@@ -83,7 +83,7 @@ Thank you for being here! You can find other NPM Packages **[here](https://www.n
 
 
 Let's **`get connected`** if we share the same views! 
-Invite to connect on **[LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**.
+Invite me to connect on **[LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**.
  
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/TwitterSentimentAnalysis.svg?style=social)](https://twitter.com/intent/tweet?text=A%20NPM%20module%20by%20@Vinit_Shahdeo%20to%20keep%20yourself%20motivated:&url=https://github.com/vinitshahdeo/inspirational-quotes/)
 
