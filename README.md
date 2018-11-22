@@ -74,7 +74,7 @@ $ node demo.js
 
 **MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE)**
 
-> **"One day your life will flash before your eyes. Make sure it is worth watching."**
+> **One day your life will flash before your eyes. Make sure it is worth watching."
 
 [![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/inspirational-quotes) 
 [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/GetQuotes)
