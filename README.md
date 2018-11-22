@@ -26,19 +26,19 @@ $ npm install inspirational-quotes
 
 ## Usage
 
-- getQuote() function returns an object containing ***text*** and ***author***.
+- getQuote() method returns an object containing ***text*** and ***author***.
 
-```json
+***```json
  {  
     "text":"My number one piece of advice is: you should learn how to program.",
     "from":"Mark Zuckerberg, founder of Facebook"
  }
  
- ```
+ ```***
 
+- getRandomQuote() method returns a random **inspirational** quote.
 
-
-```js
+**`You miss 100 percent of the shots you don’t take.`**
 
 const Quote = require('inspirational-quotes');
 console.log(Quote.getRandomQuote());
