@@ -4,7 +4,7 @@
 
 [![NPM VERSION](http://img.shields.io/npm/v/inspirational-quotes.svg?style=flat)](https://www.npmjs.org/package/inspirational-quotes) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=flat)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![LICENSE](http://img.shields.io/badge/inspirational-quotes-orange.svg?style=flat)](https://github.com/vinitshahdeo/inspirational-quotes)
 
-**Click *[here](https://www.npmjs.com/package/inspirational-quotes)*** to view this package on **NPM** registry.
+**Click [here](https://www.npmjs.com/package/inspirational-quotes)** to view this package on **NPM** registry.
 
 ## Getting started
 
