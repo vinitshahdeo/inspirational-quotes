@@ -79,7 +79,7 @@ Each returned quote is a object containing:
 To view the examples, clone the **inspirational-quotes** repo and install the dependencies:
 
 ```bash
-$ git clone https://github.com/vinitshahdeo/celeb-diwali.git
+$ git clone https://github.com/vinitshahdeo/inspirational-quotes.git
 $ cd examples
 $ npm install
 ```
@@ -92,4 +92,7 @@ $ node demo.js
 
 ## License
 
-MIT &copy; [Vinit Shahdeo](https://)
+**MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE)**
+
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/inspirational-quotes) 
+[![Think Big](https://img.shields.io/badge/Think-Big-dodgerblue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/GetQuotes)
