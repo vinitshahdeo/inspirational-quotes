@@ -29,7 +29,7 @@ $ npm install inspirational-quotes
 - getQuote() function returns an object containing ***text*** and ***author***.
 
 `{  
-    "text":"My number one piece of advice is: you should learn how to program.",
+    "text":"My number one piece of advice is: you should learn how to program.", \n
     "from":"Mark Zuckerberg, founder of Facebook"
  }`
 
