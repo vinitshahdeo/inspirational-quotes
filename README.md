@@ -72,6 +72,9 @@ $ node demo.js
 
 ## License
 
+
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=social)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE)
+
 **MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE)**
 
 ## Oh, Thanks!
