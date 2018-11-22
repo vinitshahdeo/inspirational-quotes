@@ -2,8 +2,7 @@
 
 > A simple node module which returns Inspiring Quotes. It provides awesome quotes to display in your application. Get your daily quote and stay motivated!
 
-[![NPM VERSION](http://img.shields.io/npm/v/celeb-diwali.svg?style=flat)](https://www.npmjs.org/package/celeb-diwali)
-[![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/vinitshahdeo/celeb-diwali/blob/master/LICENSE)
+[![NPM VERSION](http://img.shields.io/npm/v/insirational-quotes.svg?style=flat)](https://www.npmjs.org/package/inspirational-quotes) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=flat)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![LICENSE](http://img.shields.io/badge/inspirational-quotes-orange.svg?style=flat)](https://github.com/vinitshahdeo/inspirational-quotes)
 
 ## Getting started
 
@@ -27,6 +26,15 @@ $ npm install inspirational-quotes
 
 ## Usage
 
+- getQuote() function returns an object containing ***text*** and ***author***.
+
+`{  
+    "text":"My number one piece of advice is: you should learn how to program.",
+    "from":"Mark Zuckerberg, founder of Facebook"
+ }`
+
+
+
 ```js
 
 const Quote = require('inspirational-quotes');
@@ -34,9 +42,9 @@ console.log(Quote.getRandomQuote());
 
 /*
 
-`getRandomQuote()` returns a random quote.
+getRandomQuote() returns a random quote.
 
- > One day your life will flash before your eyes. Make sure it is worth watching
+"One day your life will flash before your eyes. Make sure it is worth watching."
 
 */
 
