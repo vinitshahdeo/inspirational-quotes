@@ -2,9 +2,9 @@
 
 > A simple **NPM** Package which returns **Inspirational Quotes**. It provides awesome quotes to display in your application. Get your daily quote and stay motivated!
 
-Click [here](https://www.npmjs.com/package/inspirational-quotes) to view this package on NPM registry.
-
 [![NPM VERSION](http://img.shields.io/npm/v/inspirational-quotes.svg?style=flat)](https://www.npmjs.org/package/inspirational-quotes) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=flat)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![LICENSE](http://img.shields.io/badge/inspirational-quotes-orange.svg?style=flat)](https://github.com/vinitshahdeo/inspirational-quotes)
+
+**Click *[here](https://www.npmjs.com/package/inspirational-quotes)*** to view this package on **NPM** registry.
 
 ## Getting started
 
