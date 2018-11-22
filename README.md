@@ -47,32 +47,10 @@ $ npm install inspirational-quotes
 ```js
 
 const Quote = require('inspirational-quotes');
+
 console.log(Quote.getRandomQuote());
 
-/*
-
-getRandomQuote() returns a random quote.
-
-"One day your life will flash before your eyes. Make sure it is worth watching."
-
-*/
-
 console.log(Quote.getQote());
-
-/*
-
-Each returned quote is a object containing:
-
-- text
-- author
-
-{  
-  "text":"Don’t worry about failure; you only have to be right once.",
-  "from":"Drew Houston, founder of Dropbox"
-}
-
-
-*/
 
 ```
 
@@ -95,6 +73,8 @@ $ node demo.js
 ## License
 
 **MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE)**
+
+> **"One day your life will flash before your eyes. Make sure it is worth watching."**
 
 [![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/inspirational-quotes) 
 [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/GetQuotes)
