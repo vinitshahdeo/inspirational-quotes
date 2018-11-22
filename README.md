@@ -38,9 +38,7 @@ $ npm install inspirational-quotes
  
  
 
-- getRandomQuote() method returns a random **inspirational** quote.
-
-**`You miss 100 percent of the shots you don’t take.`**
+- getRandomQuote() method returns a random **inspirational** quote : *`You miss 100 percent of the shots you don’t take.`*
 
 
 
