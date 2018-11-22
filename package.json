@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinitshahdeo/celeb-diwali.git"
+    "url": "git+https://github.com/vinitshahdeo/inspirational-quotes.git"
   },
   "keywords": [
     "motivation",
@@ -19,9 +19,9 @@
   ],
   "author": "Vinit Shahdeo <vinitshahdeo@gmail.com> (http://vinitshahdeo.com)",
   "license": "MIT",
-  "homepage": "https://github.com/vinitshahdeo/celeb-diwali",
+  "homepage": "https://github.com/vinitshahdeo/inspirational-quotes",
   "bugs": {
-    "url": "https://github.com/vinitshahdeo/celeb-diwali/issues"
+    "url": "https://github.com/vinitshahdeo/inspirational-quotes/issues"
   },
   "directories": {
     "example": "examples",
