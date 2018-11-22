@@ -34,7 +34,7 @@ $ npm install inspirational-quotes
 ```json
  {  
     "text":"My number one piece of advice is: you should learn how to program.",
-    "from":"Mark Zuckerberg, founder of Facebook"
+    "author":"Mark Zuckerberg, founder of Facebook"
  }
  ```
  
