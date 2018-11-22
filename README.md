@@ -50,7 +50,7 @@ const Quote = require('inspirational-quotes');
 
 console.log(Quote.getRandomQuote());
 
-console.log(Quote.getQote());
+console.log(Quote.getQuote());
 
 ```
 
