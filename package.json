@@ -1,7 +1,7 @@
 {
   "name": "inspirational-quotes",
-  "version": "1.0.2",
-  "description": "A simple node module which returns Inspirational Quotes. Get your daily quote and stay motivated!",
+  "version": "1.0.4",
+  "description": "A simple NPM Package which returns Inspirational Quotes. Get your daily quote and stay motivated!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
