@@ -35,7 +35,6 @@ $ npm install inspirational-quotes
     "text":"My number one piece of advice is: you should learn how to program.",
     "from":"Mark Zuckerberg, founder of Facebook"
  }
- 
  ```
  
  
