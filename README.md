@@ -86,7 +86,7 @@ $ node demo.js
 
 **Checkout [Quotter](https://vinitshahdeo.github.io/Quotter/) - A twitter bot which tweets random quotes with image and #hashtags!**
 
-I've made this using [inspirational-quotes](https://www.npmjs.com/package/inspirational-quotes) NPM module. I'll be more than happy to know if you build something using [this](https://www.npmjs.com/package/inspirational-quotes) module.
+I've made this using [inspirational-quotes](https://www.npmjs.com/package/inspirational-quotes) NPM module. I'll be more than happy to know if you build something using [this](https://www.npmjs.com/package/inspirational-quotes) module. Share your story @ [vinitshahdeo@gmail.com](https://www.facebook.com/vinit.shahdeo)
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo)
 
