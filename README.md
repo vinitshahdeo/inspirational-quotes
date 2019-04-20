@@ -103,6 +103,21 @@ Thank you for being here! You can find my other NPM Packages **[here](https://ww
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.npmjs.com/~vinitshahdeo) [![Vinit Shahdeo](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://www.npmjs.com/~vinitshahdeo) [![Vinit Shahdeo](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://github.com/vinitshahdeo/inspirational-quotes)
 
+
+```
+
+   _____ _                _____                 _              _ 
+  / ____| |              |_   _|               (_)            | |
+ | (___ | |_ __ _ _   _    | |  _ __  ___ _ __  _ _ __ ___  __| |
+  \___ \| __/ _` | | | |   | | | '_ \/ __| '_ \| | '__/ _ \/ _` |
+  ____) | || (_| | |_| |  _| |_| | | \__ \ |_) | | | |  __/ (_| |
+ |_____/ \__\__,_|\__, | |_____|_| |_|___/ .__/|_|_|  \___|\__,_|
+                   __/ |                 | |                     
+                  |___/                  |_|                     
+
+```
+
+
 Let's **[get connected](https://www.linkedin.com/in/vinitshahdeo/)** if we share the same views! 
 Invite me to connect on **[LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**.
  
