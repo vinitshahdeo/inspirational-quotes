@@ -1,6 +1,6 @@
 {
   "name": "inspirational-quotes",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A simple NPM Package which returns Inspirational Quotes. Get your daily quote and stay motivated!",
   "main": "index.js",
   "scripts": {
