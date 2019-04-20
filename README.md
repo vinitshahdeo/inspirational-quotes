@@ -18,7 +18,7 @@ $ npm install --save inspirational-quotes
 
 ## Installation
 
-[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=flat&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=flat&logo=node.js)](https://nodejs.org/en/) 
+[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=flat&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=flat&logo=node.js)](https://nodejs.org/en/) [![inspirational-quotes](http://img.shields.io/badge/npm-inspirational--quotes-red.svg?style=flat&logo=npm)](https://www.npmjs.com/package/inspirational-quotes)
 
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
@@ -82,7 +82,7 @@ $ node demo.js
 
 ## Related Works
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SayHiToQuotter.svg?style=social&logoColor=teal)](https://twitter.com/SayHiToQuotter)
+[![Quotter](https://img.shields.io/badge/GitHub%20Repo-Quotter-follow.svg?logo=github&style=social)](https://github.com/vinitshahdeo/Quotter) [![Twitter Follow](https://img.shields.io/twitter/follow/SayHiToQuotter.svg?style=social&logoColor=teal)](https://twitter.com/SayHiToQuotter)
 
 **Checkout [Quotter](https://vinitshahdeo.github.io/Quotter/) - A twitter bot which tweets random quotes with image and #hashtags!**
 
@@ -102,6 +102,21 @@ I've made this using [inspirational-quotes](https://www.npmjs.com/package/inspir
 Thank you for being here! You can find my other NPM Packages **[here](https://www.npmjs.com/~vinitshahdeo)**.
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.npmjs.com/~vinitshahdeo) [![Vinit Shahdeo](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://www.npmjs.com/~vinitshahdeo) [![Vinit Shahdeo](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://github.com/vinitshahdeo/inspirational-quotes)
+
+
+```
+
+   _____ _                _____                 _              _ 
+  / ____| |              |_   _|               (_)            | |
+ | (___ | |_ __ _ _   _    | |  _ __  ___ _ __  _ _ __ ___  __| |
+  \___ \| __/ _` | | | |   | | | '_ \/ __| '_ \| | '__/ _ \/ _` |
+  ____) | || (_| | |_| |  _| |_| | | \__ \ |_) | | | |  __/ (_| |
+ |_____/ \__\__,_|\__, | |_____|_| |_|___/ .__/|_|_|  \___|\__,_|
+                   __/ |                 | |                     
+                  |___/                  |_|                     
+
+```
+
 
 Let's **[get connected](https://www.linkedin.com/in/vinitshahdeo/)** if we share the same views! 
 Invite me to connect on **[LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**.
