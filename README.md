@@ -1,8 +1,10 @@
 # Inspirational Quotes
 
+[![NPM VERSION](http://img.shields.io/npm/v/inspirational-quotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/inspirational-quotes) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![LICENSE](http://img.shields.io/badge/inspirational-quotes-orange.svg?style=flat&logo=node.js)](https://github.com/vinitshahdeo/inspirational-quotes) ![npm collaborators](https://img.shields.io/npm/collaborators/inspirational-quotes.svg?logo=npm)
+
 > A simple **NPM** Package which returns random **Inspirational Quotes**. It provides awesome quotes to display in your application. Get your daily quote and stay motivated!
 
-[![NPM VERSION](http://img.shields.io/npm/v/inspirational-quotes.svg?style=flat)](https://www.npmjs.org/package/inspirational-quotes) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=flat)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![LICENSE](http://img.shields.io/badge/inspirational-quotes-orange.svg?style=flat)](https://github.com/vinitshahdeo/inspirational-quotes)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/inspirational-quotes.svg?logo=github&style=social) ![npm](https://img.shields.io/npm/dy/inspirational-quotes.svg?logo=npm&style=social)
 
 **Click [here](https://www.npmjs.com/package/inspirational-quotes)** to view this package on **NPM** registry. Check the homepage **[here](https://vinitshahdeo.github.io/inspirational-quotes/)**.
 
