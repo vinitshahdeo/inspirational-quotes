@@ -4,7 +4,7 @@
 
 #### A simple [NPM]() Package which returns random [Inspirational Quotes](). It provides awesome quotes to display in your application. Get your daily quote and stay motivated!
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/inspirational-quotes.svg?logo=github&style=social) ![npm](https://img.shields.io/npm/dy/inspirational-quotes.svg?logo=npm&style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/inspirational-quotes.svg?logo=git&style=social) ![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/inspirational-quotes.svg?logo=javascript&logoColor=yellow&style=social)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/inspirational-quotes.svg?logo=github&style=social) ![npm](https://img.shields.io/npm/dy/inspirational-quotes.svg?logo=npm&style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/inspirational-quotes.svg?logo=git&style=social) ![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/inspirational-quotes.svg?logo=javascript&logoColor=yellow&style=social) ![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?logo=npm&style=social)
 
 **Click [here](https://www.npmjs.com/package/inspirational-quotes)** to view this package on **NPM** registry. Check the homepage **[here](https://vinitshahdeo.github.io/inspirational-quotes/)**.
 
