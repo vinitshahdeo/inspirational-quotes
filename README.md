@@ -1,10 +1,10 @@
 # Inspirational Quotes
 
-[![NPM VERSION](http://img.shields.io/npm/v/inspirational-quotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/inspirational-quotes) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![LICENSE](http://img.shields.io/badge/inspirational-quotes-orange.svg?style=flat&logo=node.js)](https://github.com/vinitshahdeo/inspirational-quotes) ![npm collaborators](https://img.shields.io/npm/collaborators/inspirational-quotes.svg?logo=npm)
+[![NPM VERSION](http://img.shields.io/npm/v/inspirational-quotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/inspirational-quotes) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![LICENSE](http://img.shields.io/badge/inspirational-quotes-orange.svg?style=flat&logo=node.js)](https://github.com/vinitshahdeo/inspirational-quotes) ![npm collaborators](https://img.shields.io/npm/collaborators/inspirational-quotes.svg?logo=npm) ![Snyk Vulnerabilities for npm package version](https://img.shields.io/snyk/vulnerabilities/npm/inspirational-quotes.svg?color=9cf&logo=snyk)
 
 > A simple **NPM** Package which returns random **Inspirational Quotes**. It provides awesome quotes to display in your application. Get your daily quote and stay motivated!
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/inspirational-quotes.svg?logo=github&style=social) ![npm](https://img.shields.io/npm/dy/inspirational-quotes.svg?logo=npm&style=social)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/inspirational-quotes.svg?logo=github&style=social) ![npm](https://img.shields.io/npm/dy/inspirational-quotes.svg?logo=npm&style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/inspirational-quotes.svg?logo=git&style=social) ![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/inspirational-quotes.svg?logo=javascript&logoColor=yellow&style=social)
 
 **Click [here](https://www.npmjs.com/package/inspirational-quotes)** to view this package on **NPM** registry. Check the homepage **[here](https://vinitshahdeo.github.io/inspirational-quotes/)**.
 
@@ -16,7 +16,7 @@ $ npm install --save inspirational-quotes
 
 ## Installation
 
-[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=flat)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=flat)](https://nodejs.org/en/) 
+[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=flat&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=flat&logo=node.js)](https://nodejs.org/en/) 
 
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
