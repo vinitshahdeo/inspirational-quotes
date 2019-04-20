@@ -10,6 +10,8 @@
 
 ## Getting started
 
+[![NPM](https://nodei.co/npm/inspirational-quotes.png?compact=true)](https://nodei.co/npm/inspirational-quotes/)
+
 ```
 $ npm install --save inspirational-quotes
 ```
