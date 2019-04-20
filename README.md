@@ -82,7 +82,7 @@ $ node demo.js
 
 ## Related Works
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SayHiToQuotter.svg?style=social&logoColor=teal)](https://twitter.com/SayHiToQuotter)
+[![Quotter](https://img.shields.io/badge/GitHub%20Repo-Quotter-follow.svg?logo=github&style=social)](https://github.com/vinitshahdeo/Quotter) [![Twitter Follow](https://img.shields.io/twitter/follow/SayHiToQuotter.svg?style=social&logoColor=teal)](https://twitter.com/SayHiToQuotter)
 
 **Checkout [Quotter](https://vinitshahdeo.github.io/Quotter/) - A twitter bot which tweets random quotes with image and #hashtags!**
 
