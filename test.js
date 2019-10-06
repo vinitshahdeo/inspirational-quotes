@@ -1,7 +1,7 @@
 const data = require('./data/data.json');
 const assert = require('assert');
 
-describe("Test Suite", () => {
+describe("data.json", () => {
     it("test for Duplicacy of quotes", () => {
 
         let initialNumberOfQuotes = data.length;
@@ -14,7 +14,6 @@ describe("Test Suite", () => {
             ArrayOfStringObject.push(JSON.stringify(data[i]))
         }
         let setOfAllObjects = new Set(ArrayOfStringObject);
-        console.log(setOfAllObjects)
         assert.equal(initialNumberOfQuotes, setOfAllObjects.size);
     })
 })
