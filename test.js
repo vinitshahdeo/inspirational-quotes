@@ -2,7 +2,7 @@ const data = require('./data/data.json');
 const assert = require('assert');
 
 describe("data.json", () => {
-    it("test for Duplicacy of quotes", () => {
+    it("should not contain any duplicate quotes", () => {
 
         let initialNumberOfQuotes = data.length;
         for (let i = 0; i < data.length; i++) {
