@@ -1302,5 +1302,60 @@
    {  
       "text":"I learned not to worry so much about the outcome, but to concentrate on the step I was on and to try to do it as perfectly as I could when I was doing it.",
       "from":"Steve Wozniak, Co-Founder of Apple"
+   },
+   {  
+      "text":"Prouver que j'ai raison serait accorder que je puis avoir tort.",
+      "from":"Pierre Augustin Caron de Beaumarchais",
+	  "lang": "fr_FR"
+   },
+   {  
+      "text":"Il n'y a pas de verités moyennes.​",
+      "from":"Georges Bernanos",
+	  "lang": "fr_FR"
+   },
+   {  
+      "text":"On n'est point toujours une bête pour l'avoir été quelquefois.",
+      "from":"Denis Diderot",
+	  "lang": "fr_FR"
+   },
+   {  
+      "text":"Je pense, donc, je suis.",
+      "from":"René Descartes",
+	  "lang": "fr_FR"
+   },
+   {  
+      "text":"Imaginer c'est choisir.",
+      "from":"Jean Giono",
+	  "lang": "fr_FR"
+   },
+   {  
+      "text":"Le monde a commencé sans l'homme et il s'achèvera sans lui.",
+      "from":"Claude Lévi-Strauss",
+	  "lang": "fr_FR"
+   },
+   {  
+      "text":"La Raison c'est la folie du plus fort. La raison du moins fort c'est de la folie.",
+      "from":"Eugène Ionesco",
+	  "lang": "fr_FR"
+   },
+   {  
+      "text":"Dans une grande âme tout est grand.",
+      "from":"Blaise Pascal",
+	  "lang": "fr_FR"
+   },
+   {  
+      "text":"On nous apprend à vivre quand la vie est passée.",
+      "from":"Michel de Montaigne",
+	  "lang": "fr_FR"
+   },
+   {  
+      "text":"Être adulte, c'est être seul",
+      "from":"Jean Rostand",
+	  "lang": "fr_FR"
+   },
+   {  
+      "text":"Un peuple malheureux fait les grands artistes.",
+      "from":"Alfred de Musset",
+	  "lang": "fr_FR"
    }
 ]
