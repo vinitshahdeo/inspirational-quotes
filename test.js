@@ -1,4 +1,3 @@
-const quote = require('./index.js');
 const data = require('./data/data.json');
 const assert = require('assert');
 
@@ -7,8 +6,8 @@ describe("Test Suite", () => {
 
         let initialNumberOfQuotes = data.length;
         for (let i = 0; i < data.length; i++) {
-            data[i]["text"] = data[i]["text"].replace(/['".,\/#!$%\^&\*;:{}=\-_`~() @]/g, "").toLowerCase();
-            data[i]["from"] = data[i]["from"].replace(/['".,\/#!$%\^&\*;:{}=\-_`~() @]/g, "").toLowerCase();
+            data[i]["text"] = data[i]["text"].replace(/['".,/#!$%^&*;:{}=\-_`~() @]/g, "").toLowerCase();
+            data[i]["from"] = data[i]["from"].replace(/['".,/#!$%^&*;:{}=\-_`~() @]/g, "").toLowerCase();
         }
         let ArrayOfStringObject = [];
         for (let i = 0; i < data.length; i++) {
