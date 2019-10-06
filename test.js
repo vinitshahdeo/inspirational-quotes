@@ -1,16 +1,21 @@
-const quote=require('./index.js');
+const quote = require('./index.js');
+const data = require('./data/data.json');
+const assert = require('assert');
 
-var Quote = quote.getQuote();
+describe("Test Suite", () => {
+    it("test for Duplicacy of quotes", () => {
 
-/* getQuote() returns an object containing 'text' and 'author' */
-
-console.log('\n***********************************');
-console.log('***********************************\n\n');
-
-console.log('RANDOM QUOTE - GET INSPIRED\n');
-
-console.log(Quote.text);
-console.log('- '+Quote.author);
-
-console.log('\n\n***********************************');
-console.log('***********************************\n\n');
+        let initialNumberOfQuotes = data.length;
+        for (let i = 0; i < data.length; i++) {
+            data[i]["text"] = data[i]["text"].replace(/['".,\/#!$%\^&\*;:{}=\-_`~() @]/g, "").toLowerCase();
+            data[i]["from"] = data[i]["from"].replace(/['".,\/#!$%\^&\*;:{}=\-_`~() @]/g, "").toLowerCase();
+        }
+        let ArrayOfStringObject = [];
+        for (let i = 0; i < data.length; i++) {
+            ArrayOfStringObject.push(JSON.stringify(data[i]))
+        }
+        let setOfAllObjects = new Set(ArrayOfStringObject);
+        console.log(setOfAllObjects)
+        assert.equal(initialNumberOfQuotes, setOfAllObjects.size);
+    })
+})

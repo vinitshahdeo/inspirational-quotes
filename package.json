@@ -25,6 +25,9 @@
   },
   "directories": {
     "example": "examples",
-    "data":"data"
+    "data": "data"
+  },
+  "dependencies": {
+    "mocha": "^6.2.1"
   }
 }
