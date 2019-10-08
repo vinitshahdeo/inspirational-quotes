@@ -28,6 +28,6 @@
     "data": "data"
   },
   "devDependencies": {
-    "chai": "^4.2.0"
+    "should": "^13.2.3"
   }
 }

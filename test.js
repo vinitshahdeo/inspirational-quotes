@@ -1,14 +1,13 @@
 const quote=require('./index.js');
 
-const chai = require("chai");
-const should = chai.should();
+const should = require("should");
 
 describe(`---------------- Enter the "inspirational" tests :) ----------------------- \n\n`, () => {
     it("Test: getQuote() middleware\n", (done) => {
         var Quote = quote.getQuote();
-
-        Quote.text.should.be.a("string");
-        Quote.author.should.be.a("string");
+        should(Quote.text).be.a.String();
+        should(Quote.author).be.a.String();
+        
 
         done();
     });
@@ -16,7 +15,7 @@ describe(`---------------- Enter the "inspirational" tests :) ------------------
     it("Test: getRandomQuote() middleware\n", (done) => {
         var Quote = quote.getRandomQuote();
 
-        Quote.should.be.a("string");
+        should(Quote).be.a.String();
 
         done();
     });
