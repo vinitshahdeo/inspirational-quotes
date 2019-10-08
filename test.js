@@ -1,16 +1,23 @@
 const quote=require('./index.js');
 
-var Quote = quote.getQuote();
+const chai = require("chai");
+const should = chai.should();
 
-/* getQuote() returns an object containing 'text' and 'author' */
+describe(`---------------- Enter the "inspirational" tests :) ----------------------- \n\n`, () => {
+    it("Test: getQuote() middleware\n", (done) => {
+        var Quote = quote.getQuote();
 
-console.log('\n***********************************');
-console.log('***********************************\n\n');
+        Quote.text.should.be.a("string");
+        Quote.author.should.be.a("string");
 
-console.log('RANDOM QUOTE - GET INSPIRED\n');
+        done();
+    });
 
-console.log(Quote.text);
-console.log('- '+Quote.author);
+    it("Test: getRandomQuote() middleware\n", (done) => {
+        var Quote = quote.getRandomQuote();
 
-console.log('\n\n***********************************');
-console.log('***********************************\n\n');
+        Quote.should.be.a("string");
+
+        done();
+    });
+});
