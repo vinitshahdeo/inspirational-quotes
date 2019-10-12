@@ -80,6 +80,16 @@ Then run the **demo.js**:
 $ node demo.js
 ```
 
+## Tests
+
+To run the tests, simple run
+
+```bash
+$ npm run test
+```
+
+This will invoke `mocha` to run the [test/index.js](test/index.js) file.
+
 ## Related Works
 
 [![Quotter](https://img.shields.io/badge/GitHub%20Repo-Quotter-follow.svg?logo=github&style=social)](https://github.com/vinitshahdeo/Quotter) [![Twitter Follow](https://img.shields.io/twitter/follow/SayHiToQuotter.svg?style=social&logoColor=teal)](https://twitter.com/SayHiToQuotter)
