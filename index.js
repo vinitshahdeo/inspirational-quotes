@@ -1,7 +1,5 @@
 const qoutesData = require('./data/data.json');
 
-const quote = {};
-
 const randomInt = (min, max) => {
     return Math.floor(Math.random() * (max - min + 1) + min);
 };
@@ -12,16 +10,20 @@ const getRandomQuote = () => {
 };
 
 const getQuote = (name) => {
-    qoutesData.map(item => {
-        if (item.from === name) {
-            quote.text = item.text;
-            quote.name = item.from;
-        }
-    });
-    return quote;
+    const qoutes = qoutesData.filter(item => item.from === name);
+    return qoutes[0].text;
+};
+
+const startJob = () => {
+    console.log(getQuote);
+};
+
+const getQuoteForEveryHour = () => {
+    setInterval(startJob, 600000);
 };
 
 module.exports = {
     getQuote,
     getRandomQuote,
+    getQuoteForEveryHour,
 };
