@@ -1,16 +1,14 @@
-const quote = require('./index.js');
-
-var Quote = quote.getQuote();
-
-/* getQuote() returns an object containing 'text' and 'author' */
+const {
+    getRandomQuote,
+    getQuote,
+} = require('./index');
 
 console.log('\n***********************************');
 console.log('***********************************\n\n');
-
 console.log('RANDOM QUOTE - GET INSPIRED\n');
+console.log(getRandomQuote());
 
-console.log(Quote.text);
-console.log('- ' + Quote.author);
-
-console.log('\n\n***********************************');
+console.log('\n***********************************');
 console.log('***********************************\n\n');
+console.log('LIKELY QOUTE - GET INSPIRED\n');
+console.log(getQuote('Chinese Proverb'));
