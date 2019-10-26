@@ -3,6 +3,8 @@
 /.pnp
 .pnp.js
 
+package-lock.json
+
 # testing
 /coverage
 
@@ -45,6 +47,8 @@ build/Release
 
 # Optional npm cache directory
 .npm
+
+.idea
 
 # Optional REPL history
 .node_repl_history
