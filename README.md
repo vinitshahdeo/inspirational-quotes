@@ -92,7 +92,7 @@ I've made this using [inspirational-quotes](https://www.npmjs.com/package/inspir
 
 ## Want to contribute?
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)
 
 > Please check issues **[here](https://github.com/vinitshahdeo/inspirational-quotes/issues)**!
 
