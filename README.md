@@ -90,6 +90,14 @@ I've made this using [inspirational-quotes](https://www.npmjs.com/package/inspir
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo)
 
+## Want to contribute?
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+
+> Please check issues **[here](https://github.com/vinitshahdeo/inspirational-quotes/issues)**!
+
+**[ISSUE [#4](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)]** : **[Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)** (Recommended for beginners)
+
 ## License
 
 
