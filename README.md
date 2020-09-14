@@ -70,6 +70,7 @@ To view the examples, clone the **inspirational-quotes** repo and install the de
 
 ```bash
 $ git clone https://github.com/vinitshahdeo/inspirational-quotes.git
+$ cd inspirational-quotes
 $ cd examples
 $ npm install
 ```
