@@ -1,20 +1,39 @@
-# Configuration for welcome - https://github.com/behaviorbot/welcome
-
-# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
-
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: |
   Thanks for opening your first issue! 
   Kindly note that this repository is maintained by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/). 
   He'll get back to you soon. 
-# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: |
  Thanks for opening this pull request!
- Please add [@vinitshahdeo](https://github.com/vinitshahdeo/) as a reviewer if you haven't added.
+ **Are you looking for more beginner-friendly issues, check out [this](https://github.com/vinitshahdeo/Hacktoberfest2020/) repo.**
+ Wishing you a great [Hacktoberfest 2020](https://dev.to/vinitshahdeo/hacktoberfest-2020-is-here-17op) 🙌 🎉 ⚡️
  
-# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+ Check out few other repos:
+ 
+ [![PortScanner](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=PortScanner)](https://github.com/vinitshahdeo/PortScanner) 
+ [![SimpleBio](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=SimpleBio)](https://github.com/vinitshahdeo/SimpleBio) 
+ [![HBD](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=HBD)](https://github.com/vinitshahdeo/HBD)
+ [![Map Of India](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=Map-of-India)](https://github.com/vinitshahdeo/Map-of-India)
+ 
+ 
+ Show some :heart:
+    - Spread the word about [@vinitshahdeo/Hacktoberfest2020](https://github.com/vinitshahdeo/Hacktoberfest2020/) repo across your social media channels to help get others involved!
+    - Consider leaving a :star: [here]()
+    - Follow @vinitshahdeo for more updates.
+    - Give shoutout to `DEV` [article](https://dev.to/vinitshahdeo/hacktoberfest-2020-is-here-17op).
+    - Check out more beginner-friendly repos [here](https://github.com/vinitshahdeo/Hacktoberfest2020/blob/master/PROJECTS.md).
+    - Read my open-source journey [here](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/).
+ 
+    [![Hacktoberfest2020](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=Hacktoberfest2020)](https://github.com/vinitshahdeo/Hacktoberfest2020)
+ 
+ #### Say Hi on [Twitter](https://twitter.com/Vinit_Shahdeo)! :wave:
+ 
+ [Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
+ 
+ PS: Please add [@vinitshahdeo](https://github.com/vinitshahdeo/) as a reviewer if you haven't added.
+ 
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: |
