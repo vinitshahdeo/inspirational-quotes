@@ -1,0 +1,23 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: |
+  Thanks for opening your first issue! 
+  Kindly note that this repository is maintained by [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/). 
+  He'll get back to you soon. 
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: |
+ Thanks for opening this pull request!
+ Please add [@vinitshahdeo](https://github.com/vinitshahdeo/) as a reviewer if you haven't added.
+ 
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: |
+ Congrats on merging your first pull request! 🙌🎉⚡️
+ Show some love by starring a few of my [repositories](https://github.com/vinitshahdeo?tab=repositories).
+# It is recommended to include as many gifs and emojis as possible
