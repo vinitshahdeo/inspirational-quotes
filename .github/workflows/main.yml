@@ -1,0 +1,17 @@
+name: CI
+
+on: [pull_request]
+
+jobs:
+  lint:
+    name: Validate data.json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+      - name: Install jsonlint
+        run: npm install jsonlint -g
+      - name: Parse data.json
+        run: jsonlint -q data/data.json
