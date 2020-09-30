@@ -4,7 +4,7 @@
   "description": "A simple NPM Package which returns Inspirational Quotes. Get your daily quote and stay motivated!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./test --recursive --timeout 15000 --no-deprecation --exit"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,9 @@
   },
   "directories": {
     "example": "examples",
-    "data":"data"
+    "data": "data"
+  },
+  "devDependencies": {
+    "should": "^13.2.3"
   }
 }
