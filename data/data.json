@@ -428,10 +428,6 @@
       "from":"Dr. Napoleon Hill"
    },
    {  
-      "text":"I have not failed. I’ve just found 10,000 ways that won’t work",
-      "from":"Thomas Alva Edison"
-   },
-   {  
       "text":"If you ain’t making waves, you ain’t kickin’ hard enough",
       "from":"Unknown"
    },
@@ -558,10 +554,6 @@
    {  
       "text":"You miss 100% of the shots you don’t take.",
       "from":"Wayne Gretzky"
-   },
-   {  
-      "text":"I’m not a businessman. I’m a business, man.",
-      "from":"Jay-Z"
    },
    {  
       "text":"The vision must be followed by the venture. It is not enough to stare up the steps – we must step up the stairs.",
@@ -848,8 +840,8 @@
       "from":"Michael Gerber"
    },
    {  
-      "text":"If you want to be inventive",
-      "from":"you have to be willing to fail.”"
+      "text":"If you want to be inventive, you have to be willing to fail.",
+      "from":"Jeff Bezos, CEO of Amazon"
    },
    {  
       "text":"The challenge is not just to build a company that can endure; but to build one that is worthy of enduring.",
@@ -864,24 +856,24 @@
       "from":"Chris Brogan"
    },
    {  
-      "text":"Nine out of ten businesses fail; so I came up with a foolproof plan",
-      "from":"create ten businesses.”"
+      "text":"Nine out of ten businesses fail; so I came up with a foolproof plan, create ten businesses.",
+      "from":"Robert T. Kiyosaki"
    },
    {  
-      "text":"I’m not a businessman",
-      "from":"I”m a business, man.”"
+      "text":"I’m not a businessman I'm a business, man.",
+      "from":"Jay-Z"
    },
    {  
-      "text":"If plan ‘A’ fails",
-      "from":"remember you have 25 letters left.”"
+      "text":"If plan ‘A’ fails remember you have 25 more letters left.",
+      "from":"Chris Guillebeau"
    },
    {  
       "text":"We make a living by what we get. But we make a life by what we give.",
       "from":"Winston Churchhill"
    },
    {  
-      "text":"Believe that you will succeed",
-      "from":"and you will.”"
+      "text":"Believe that you will succeed and you will.",
+      "from":"Dale Carnegie, American writer and lecturer"
    },
    {  
       "text":"Victory comes only after many struggles and countless defeats.",
@@ -948,8 +940,8 @@
       "from":"Tony Robbins"
    },
    {  
-      "text":"If you don’t have a competitive advantage",
-      "from":"don’t compete.”"
+      "text":"If you don’t have a competitive advantage, don’t compete.",
+      "from":"Jack Welch, former CEO and chairman of General Electric."
    },
    {  
       "text":"You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
@@ -958,10 +950,6 @@
    {  
       "text":"If everything seems under control, you’re just not going fast enough.",
       "from":"Mario Andretti"
-   },
-   {  
-      "text":"Don’t be trapped by dogma",
-      "from":"which is living with the results of other people’s thinking.”"
    },
    {  
       "text":"Do or do not. There is no try.",
@@ -1044,8 +1032,8 @@
       "from":"Drew Houston, founder of Dropbox"
    },
    {  
-      "text":"Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma",
-      "from":"which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.”"
+      "text":"Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.",
+      "from":"Steve Jobs, founder of Apple"
    },
    {  
       "text":"Don’t be cocky. Don’t be flashy. There’s always someone better than you.",
@@ -1177,7 +1165,7 @@
    },
    {  
       "text":"The fastest way to change yourself is to hang out with people who are already the way you want to be.",
-      "from":"Reid Hoffman, co-founder of Linkedin"
+      "from":"Reid Hoffman, co-founder of LinkedIn"
    },
    {  
       "text":"Risk more than others think is safe. Dream more than others think is practical.",
@@ -1197,7 +1185,7 @@
    },
    {  
       "text":"Success is not what you have, but who you are.",
-      "from":"Bo Bennet, author and entreprenuer"
+      "from":"Bo Bennet, author and entrepreneur"
    },
    {  
       "text":"One of the huge mistakes people make is that they try to force an interest on themselves. You don’t choose your passions; your passions choose you.",
@@ -1298,6 +1286,10 @@
    {  
       "text":"You may be disappointed if you fail, but you are doomed if you don’t try.",
       "from":"Beverly Sills, operatic soprano"
+   },
+   {  
+      "text":"If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.",
+      "from":"J.K. Rowling"
    },
    {  
       "text":"I learned not to worry so much about the outcome, but to concentrate on the step I was on and to try to do it as perfectly as I could when I was doing it.",
