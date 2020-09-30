@@ -849,7 +849,11 @@
    },
    {  
       "text":"If you want to be inventive",
-      "from":"you have to be willing to fail.”"
+      "from":"Jeff Bezos."
+   },
+   {  
+      "text":"The unexamined life is not worth living",
+      "from":"Socrates."
    },
    {  
       "text":"The challenge is not just to build a company that can endure; but to build one that is worthy of enduring.",
@@ -868,8 +872,12 @@
       "from":"create ten businesses.”"
    },
    {  
-      "text":"I’m not a businessman",
-      "from":"I”m a business, man.”"
+      "text":"I’m not a businessman,I am a business, man.",
+      "from":" Jay-Z"
+   },
+   {  
+      "text":"Entities should not be multiplied unnecessarily",
+      "from":" William of Ockham."
    },
    {  
       "text":"If plan ‘A’ fails",
