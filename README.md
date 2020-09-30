@@ -80,6 +80,20 @@ Then run the **demo.js**:
 $ node demo.js
 ```
 
+## Tests
+
+Issue #257
+
+### Duplicate quotes
+
+Duplicate quotes can be found by running: 
+
+```
+npm run test:duplicates
+```
+
+If any duplicate quotes are found, they will be output to a `duplicates.json` file to review. This only looks for duplicate quotes, not authors.
+
 ## Related Works
 
 [![Quotter](https://img.shields.io/badge/GitHub%20Repo-Quotter-follow.svg?logo=github&style=social)](https://github.com/vinitshahdeo/Quotter) [![Twitter Follow](https://img.shields.io/twitter/follow/SayHiToQuotter.svg?style=social&logoColor=teal)](https://twitter.com/SayHiToQuotter)
