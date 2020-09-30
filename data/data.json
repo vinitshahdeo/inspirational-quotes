@@ -8,6 +8,14 @@
       "from":"Marian Wright Edelman"
    },
    {  
+      "text":"The way is not in the sky. The way is in the heart.",
+      "from":"Gautam Buddha"
+   },
+   {  
+      "text":"Love itself is your teacher, and you are in the state of constant learning.",
+      "from":"Bruce Lee"
+   }, 
+   {  
       "text":"I failed my way to success.",
       "from":"Thomas Edison"
    },
@@ -48,8 +56,8 @@
       "from":"Marcia Wieder"
    },
    {  
-      "text":"I never think of the future",
-      "from":"it comes soon enough."
+      "text":"I never think of the future. It comes soon enough.",
+      "from":"Albert Einstein"
    },
    {  
       "text":"Don't waste your life in doubts and fears: Spend yourself on the work before you, well assured that the right performance of this hour's duties will be the best preparation for the hours or ages that follow it.",
@@ -94,10 +102,6 @@
    {  
       "text":"Leadership does not always wear the harness of compromise.",
       "from":"Woodrow Wilson"
-   },
-   {  
-      "text":"Business opportunities are like buses",
-      "from":"there's always another one coming."
    },
    {  
       "text":"I avoid looking forward or backward, and try to keep looking upward.",
@@ -408,10 +412,6 @@
       "from":"Mark Twain"
    },
    {  
-      "text":"There is only one success",
-      "from":"to be able to spend your life in your own way"
-   },
-   {  
       "text":"You don’t buy a nice car and get rich you get rich and buy a nice car",
       "from":"Unknown"
    },
@@ -614,10 +614,6 @@
    {  
       "text":"I didn’t go to college, but if I did, I would’ve taken all my tests at a restaurant, ’cause ‘The customer is always right.’",
       "from":"Mitch Hedberg"
-   },
-   {  
-      "text":"Formal education will make you a living. Self education will make you a fortune.",
-      "from":"Jim Rohn"
    },
    {  
       "text":"The greatest reward in becoming a millionaire is not the amount of money that you earn. It is the kind of person that you have to become to become a millionaire in the first place.",
@@ -880,8 +876,8 @@
       "from":"Winston Churchhill"
    },
    {  
-      "text":"Believe that you will succeed",
-      "from":"and you will.”"
+      "text":"Believe that you will succeed and you will.",
+      "from":"Dale Carnegie"
    },
    {  
       "text":"Victory comes only after many struggles and countless defeats.",
@@ -900,7 +896,7 @@
       "from":"Steve Jobs"
    },
    {  
-      "text":"It’s not about how to get started; its about how to get noticed.",
+      "text":"It’s not about how to get started; it's about how to get noticed.",
       "from":"Steve Case"
    },
    {  
@@ -948,8 +944,8 @@
       "from":"Tony Robbins"
    },
    {  
-      "text":"If you don’t have a competitive advantage",
-      "from":"don’t compete.”"
+      "text":"If you don’t have a competitive advantage, don’t compete.",
+      "from":"Jack Welch"
    },
    {  
       "text":"You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
@@ -960,8 +956,8 @@
       "from":"Mario Andretti"
    },
    {  
-      "text":"Don’t be trapped by dogma",
-      "from":"which is living with the results of other people’s thinking.”"
+      "text":"Don’t be trapped by dogma, which is living with the results of other people’s thinking.",
+      "from":"Steve Jobs"
    },
    {  
       "text":"Do or do not. There is no try.",
