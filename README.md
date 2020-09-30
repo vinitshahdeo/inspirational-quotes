@@ -2,11 +2,11 @@
 
 [![NPM VERSION](http://img.shields.io/npm/v/inspirational-quotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/inspirational-quotes) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![NPM MODULE](http://img.shields.io/badge/inspirational-quotes-orange.svg?style=flat&logo=node.js)](https://github.com/vinitshahdeo/inspirational-quotes) [![npm collaborators](https://img.shields.io/npm/collaborators/inspirational-quotes.svg?logo=npm)](https://www.npmjs.com/package/inspirational-quotes) [![Snyk Vulnerabilities for npm package version](https://img.shields.io/snyk/vulnerabilities/npm/inspirational-quotes.svg?color=9cf&logo=snyk)](https://www.npmjs.com/package/inspirational-quotes) [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/inspirational-quotes.svg?logo=github)](https://www.npmjs.com/package/inspirational-quotes)
 
-#### A simple [NPM](https://www.npmjs.com/package/inspirational-quotes) Package which returns random [Inspirational Quotes](https://vinitshahdeo.github.io/inspirational-quotes/). It provides awesome quotes to display in your application. Get your daily quote and stay motivated!
+#### A simple [NPM](https://www.npmjs.com/package/inspirational-quotes) package which returns random [Inspirational Quotes](https://vinitshahdeo.github.io/inspirational-quotes/). It provides awesome quotes to display in your application. Get your daily quote and stay motivated!
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/inspirational-quotes.svg?logo=github&style=social)](https://www.npmjs.com/package/inspirational-quotes) [![npm](https://img.shields.io/npm/dy/inspirational-quotes.svg?logo=npm&style=social)](https://www.npmjs.com/package/inspirational-quotes) [![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/inspirational-quotes.svg?logo=git&style=social)](https://vinitshahdeo.github.io/inspirational-quotes/) [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/inspirational-quotes.svg?logo=javascript&logoColor=yellow&style=social)](https://vinitshahdeo.github.io/inspirational-quotes/) [![Maintenance](https://img.shields.io/maintenance/yes/2019.svg?logo=npm&style=social)](https://vinitshahdeo.github.io/inspirational-quotes/)
 
-**Click [here](https://www.npmjs.com/package/inspirational-quotes)** to view this package on **NPM** registry. Check the homepage **[here](https://vinitshahdeo.github.io/inspirational-quotes/)**.
+**Click [here](https://www.npmjs.com/package/inspirational-quotes)** to view this package on the **NPM** registry. Check the homepage **[here](https://vinitshahdeo.github.io/inspirational-quotes/)**.
 
 ## Getting started
 
@@ -74,7 +74,7 @@ $ cd examples
 $ npm install
 ```
 
-Then run the **demo.js**:
+Then run **demo.js**:
 
 ```bash
 $ node demo.js
@@ -84,9 +84,9 @@ $ node demo.js
 
 [![Quotter](https://img.shields.io/badge/GitHub%20Repo-Quotter-follow.svg?logo=github&style=social)](https://github.com/vinitshahdeo/Quotter) [![Twitter Follow](https://img.shields.io/twitter/follow/SayHiToQuotter.svg?style=social&logoColor=teal)](https://twitter.com/SayHiToQuotter)
 
-**Checkout [Quotter](https://vinitshahdeo.github.io/Quotter/) - A twitter bot which tweets random quotes with image and #hashtags!**
+**Check out [Quotter](https://vinitshahdeo.github.io/Quotter/) - A twitter bot which tweets random quotes with image and #hashtags!**
 
-I've made this using [inspirational-quotes](https://www.npmjs.com/package/inspirational-quotes) NPM module. I'll be more than happy to know if you build something using [this](https://www.npmjs.com/package/inspirational-quotes) module. Share your story @ [vinitshahdeo@gmail.com](https://www.facebook.com/vinit.shahdeo)
+I've made this using the [inspirational-quotes](https://www.npmjs.com/package/inspirational-quotes) NPM module. I'll be more than happy to know if you build something using [this](https://www.npmjs.com/package/inspirational-quotes) module. Share your story @ [vinitshahdeo@gmail.com](https://www.facebook.com/vinit.shahdeo)
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo)
 
@@ -98,7 +98,7 @@ I've made this using [inspirational-quotes](https://www.npmjs.com/package/inspir
 
 > Please check issues **[here](https://github.com/vinitshahdeo/inspirational-quotes/issues)**!
 
-**[ISSUE [#4](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)]** : **[Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)** (Recommended for beginners)
+**[ISSUE [#4](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)]**: **[Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)** (Recommended for beginners)
 
 ## License
 
