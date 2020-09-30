@@ -24,7 +24,6 @@
     "url": "https://github.com/vinitshahdeo/inspirational-quotes/issues"
   },
   "directories": {
-    "example": "examples",
-    "data":"data"
+    "example": "examples"
   }
 }
