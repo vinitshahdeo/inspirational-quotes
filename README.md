@@ -8,7 +8,7 @@
 
 **Click [here](https://www.npmjs.com/package/inspirational-quotes)** to view this package on **NPM** registry. Check the homepage **[here](https://vinitshahdeo.github.io/inspirational-quotes/)**.
 
-## Getting started
+## Getting Started
 
 [![NPM](https://nodei.co/npm/inspirational-quotes.png?compact=true)](https://nodei.co/npm/inspirational-quotes/)
 
