@@ -1302,5 +1302,9 @@
    {  
       "text":"I learned not to worry so much about the outcome, but to concentrate on the step I was on and to try to do it as perfectly as I could when I was doing it.",
       "from":"Steve Wozniak, Co-Founder of Apple"
+   },
+   {
+      "text":"It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code. You should be able to read it.",
+      "from":"Steve McConnell, Author of Code Complete"
    }
 ]
