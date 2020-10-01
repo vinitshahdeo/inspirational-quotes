@@ -1,20 +1,19 @@
-var arr = require('./data/data.json');
+var arr = require("./data/data.json");
 
-var quote={};
+var quote = {};
 
-function randomInt(min,max)
-{
-    return Math.floor(Math.random()*(max-min+1)+min);
+function randomInt(max) {
+  return Math.floor(Math.random() * Math.floor(max));
 }
 
-module.exports.getRandomQuote = function () { 
-    var index = randomInt(0,324);
-    return arr[index].text;
+module.exports.getRandomQuote = function () {
+  var index = randomInt(arr.length);
+  return arr[index].text;
 };
 
-module.exports.getQuote = function (name) { 
-    var index = randomInt(0,324);
-    quote.text=arr[index].text;
-    quote.author=arr[index].from;
-    return quote;
+module.exports.getQuote = function (name) {
+  var index = randomInt(arr.length);
+  quote.text = arr[index].text;
+  quote.author = arr[index].from;
+  return quote;
 };
