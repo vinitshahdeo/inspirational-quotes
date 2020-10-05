@@ -164,7 +164,7 @@
       "from":"Eleanor Roosevelt"
    },
    {  
-      "text":"Happiness is not a state to arrive at, but a manner of traveling.",
+      "text":"Happiness is not a state to arrive at, but a manner of travelling.",
       "from":"Margaret Lee Runbeck"
    },
    {  
@@ -228,7 +228,7 @@
       "from":"William James"
    },
    {  
-      "text":"The great lesson is that the sacred is in the ordinary, that it is to be found in one's daily life, in one's neighbors, friends and family, in one's backyard.",
+      "text":"The great lesson is that the sacred is in the ordinary, that it is to be found in one's daily life, in one's neighbours, friends and family, in one's backyard.",
       "from":"Abraham Maslow"
    },
    {  
@@ -288,8 +288,8 @@
       "from":"Nolan Bushnell, entrepreneur."
    },
    {  
-      "text":"Never give in",
-      "from":"never, never, never, never, in nothing great or small, large or petty, never give in except to convictions of honour and good sense. Never yield to force; never yield to the apparently overwhelming might of the enemy. - Winston Churchill, British Prime Minister."
+      "text":"Never give in; never, never, never, never, in nothing great or small, large or petty, never give in except to convictions of honour and good sense. Never yield to force; never yield to the apparently overwhelming might of the enemy."
+      "from":"Winston Churchill, British Prime Minister."
    },
    {  
       "text":"Your most unhappy customers are your greatest source of learning.",
@@ -1302,5 +1302,9 @@
    {  
       "text":"I learned not to worry so much about the outcome, but to concentrate on the step I was on and to try to do it as perfectly as I could when I was doing it.",
       "from":"Steve Wozniak, Co-Founder of Apple"
+   }
+    {  
+      "text":"Remember that not getting what you want is sometimes a wonderful stroke of luck.",
+      "from":"Dalai Lama"
    }
 ]
