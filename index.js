@@ -8,12 +8,12 @@ function randomInt(min,max)
 }
 
 module.exports.getRandomQuote = function () { 
-    var index = randomInt(0,324);
+    var index = randomInt(0, arr.length);
     return arr[index].text;
 };
 
 module.exports.getQuote = function (name) { 
-    var index = randomInt(0,324);
+    var index = randomInt(0, arr.length);
     quote.text=arr[index].text;
     quote.author=arr[index].from;
     return quote;
