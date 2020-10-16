@@ -3,6 +3,10 @@
       "text":"The only people who never fail are those who never try.",
       "from":"Ilka Chase"
    },
+{
+   "text":"If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough",
+   "from":"Oprah Winfrey"
+},
    {  
       "text":"Failure is just another way to learn how to do something right.",
       "from":"Marian Wright Edelman"
@@ -1302,5 +1306,17 @@
    {  
       "text":"I learned not to worry so much about the outcome, but to concentrate on the step I was on and to try to do it as perfectly as I could when I was doing it.",
       "from":"Steve Wozniak, Co-Founder of Apple"
-   }
+   },
+   {  
+      "text":"No one can make you feel inferior without your consent.",
+      "from":"Eleanor Roosevelt"
+   },
+    {
+       "text":"You can never solve a problem on the level on which it was created"
+       "from":"Albert Einstein"
+    },
+    {
+       "text":"Only the paranoid survive"
+       "from":"Andy Grove"
+    },
 ]
