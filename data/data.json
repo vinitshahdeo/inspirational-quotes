@@ -1,7 +1,16 @@
 ﻿[  
-   {  
+    {  
+      "text":"Thinking is the hardest work there is,which is probably the reason why few engage in it.",
+      "from":"Henry Ford"
+    },
+    
+    {  
       "text":"The only people who never fail are those who never try.",
       "from":"Ilka Chase"
+   },
+   {  
+      "text":"People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.",
+      "from":"Rob Siltanen"
    },
    {  
       "text":"Failure is just another way to learn how to do something right.",
