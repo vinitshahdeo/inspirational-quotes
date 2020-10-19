@@ -25,6 +25,6 @@
   },
   "directories": {
     "example": "examples",
-    "data":"data"
+    "data": "data"
   }
 }
