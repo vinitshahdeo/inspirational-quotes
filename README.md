@@ -90,9 +90,11 @@ I've made this using [inspirational-quotes](https://www.npmjs.com/package/inspir
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo)
 
+> Checkout [this](https://github.com/vinitshahdeo/inspirational-quotes/network/dependents?package_id=UGFja2FnZS0yMTk1NjcyNDQ%3D) to view works by other developers who've used this module.
+
 ## Want to contribute?
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)
 
 > Please check issues **[here](https://github.com/vinitshahdeo/inspirational-quotes/issues)**!
 
