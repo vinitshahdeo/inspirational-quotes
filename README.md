@@ -61,6 +61,13 @@ console.log(Quote.getRandomQuote());
 console.log(Quote.getQuote());
 
 ```
+## Testing
+
+For executing all the testcases, run:
+
+```bash
+$ npm run test
+```
 
 ## Examples
 
