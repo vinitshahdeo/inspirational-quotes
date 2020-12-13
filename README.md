@@ -96,7 +96,7 @@ I've made this using [inspirational-quotes](https://www.npmjs.com/package/inspir
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)
 
-> Please check issues **[here](https://github.com/vinitshahdeo/inspirational-quotes/issues)**!
+> Please check issues **[here](https://github.com/vinitshahdeo/inspirational-quotes/issues)**! Keep a note that your PR won't get merged quickly due to high volume of PRs.
 
 **[ISSUE [#4](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)]** : **[Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)** (Recommended for beginners)
 
