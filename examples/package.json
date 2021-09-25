@@ -13,6 +13,6 @@
   "author": "Vinit Shahdeo",
   "license": "MIT",
   "dependencies": {
-    "inspirational-quotes": "^1.0.1"
+    "inspirational-quotes": "^1.0.8"
   }
 }
