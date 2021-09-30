@@ -3,6 +3,16 @@
       "text":"The only people who never fail are those who never try.",
       "from":"Ilka Chase"
    },
+
+
+   {
+
+       "text": "You must not lose faith in humanity. Humanity is like an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty." ,
+       "from" : "Mahatma Gandhi" 
+
+
+   },
+
    {  
       "text":"Failure is just another way to learn how to do something right.",
       "from":"Marian Wright Edelman"
@@ -167,7 +177,7 @@
       "text":"Happiness is not a state to arrive at, but a manner of traveling.",
       "from":"Margaret Lee Runbeck"
    },
-   {  
+   {     
       "text":"Purpose is what gives life a meaning.",
       "from":"C. H. Parkhurst"
    },
@@ -181,6 +191,7 @@
    },
    {  
       "text":"Life can be pulled by goals just as surely as it can be pushed by drives.",
+ 
       "from":"Viktor Frankl"
    },
    {  
