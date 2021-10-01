@@ -1,0 +1,30 @@
+{
+  "name": "inspirational-quotes",
+  "version": "1.0.8",
+  "description": "A simple NPM Package which returns Inspirational Quotes. Get your daily quote and stay motivated!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinitshahdeo/inspirational-quotes.git"
+  },
+  "keywords": [
+    "motivation",
+    "inspiration",
+    "quotes",
+    "captions",
+    "daily"
+  ],
+  "author": "Vinit Shahdeo <vinitshahdeo@gmail.com> (http://vinitshahdeo.com)",
+  "license": "MIT",
+  "homepage": "https://vinitshahdeo.github.io/inspirational-quotes/",
+  "bugs": {
+    "url": "https://github.com/vinitshahdeo/inspirational-quotes/issues"
+  },
+  "directories": {
+    "example": "examples",
+    "data":"data"
+  }
+}
