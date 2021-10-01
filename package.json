@@ -25,6 +25,9 @@
   },
   "directories": {
     "example": "examples",
-    "data":"data"
+    "data": "data"
+  },
+  "dependencies": {
+    "inspirational-quotes": "^1.0.8"
   }
 }
