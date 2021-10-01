@@ -20,7 +20,6 @@ $ npm install --save inspirational-quotes
 
 [![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=flat&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=flat&logo=node.js)](https://nodejs.org/en/) [![inspirational-quotes](http://img.shields.io/badge/npm-inspirational--quotes-red.svg?style=flat&logo=npm)](https://www.npmjs.com/package/inspirational-quotes)
 
-
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
 
@@ -37,29 +36,23 @@ $ npm install inspirational-quotes
 
 [![usage](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/vinitshahdeo/inspirational-quotes/)
 
-- ***getQuote()*** method returns an object containing ***text*** and ***author***.
+- **_getQuote()_** method returns an object containing **_text_** and **_author_**.
 
 ```json
- {  
-    "text":"My number one piece of advice is: you should learn how to program.",
-    "author":"Mark Zuckerberg, founder of Facebook"
- }
- ```
- 
- 
+{
+  "text": "My number one piece of advice is: you should learn how to program.",
+  "author": "Mark Zuckerberg, founder of Facebook"
+}
+```
 
-- ***getRandomQuote()*** method returns a random **inspirational** quote : *`You miss 100 percent of the shots you don’t take.`*
-
-
+- **_getRandomQuote()_** method returns a random **inspirational** quote : _`You miss 100 percent of the shots you don’t take.`_
 
 ```js
-
-const Quote = require('inspirational-quotes');
+const Quote = require("inspirational-quotes");
 
 console.log(Quote.getRandomQuote());
 
 console.log(Quote.getQuote());
-
 ```
 
 ## Examples
@@ -79,6 +72,20 @@ Then run the **demo.js**:
 ```bash
 $ node demo.js
 ```
+
+## Tests
+
+Issue #257
+
+### Duplicate quotes
+
+Duplicate quotes can be found by running:
+
+```
+npm run test:duplicates
+```
+
+If any duplicate quotes are found, they will be output to a `duplicates.json` file to review. This only looks for duplicate quotes, not authors.
 
 ## Related Works
 
@@ -102,7 +109,6 @@ I've made this using [inspirational-quotes](https://www.npmjs.com/package/inspir
 
 ## License
 
-
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=social&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/)
 
 **MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE)**
@@ -113,31 +119,28 @@ Thank you for being here! You can find my other NPM Packages **[here](https://ww
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.npmjs.com/~vinitshahdeo) [![Vinit Shahdeo](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://www.npmjs.com/~vinitshahdeo) [![Vinit Shahdeo](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://github.com/vinitshahdeo/inspirational-quotes)
 
-
 ```
 
-   _____ _                _____                 _              _ 
+   _____ _                _____                 _              _
   / ____| |              |_   _|               (_)            | |
  | (___ | |_ __ _ _   _    | |  _ __  ___ _ __  _ _ __ ___  __| |
   \___ \| __/ _` | | | |   | | | '_ \/ __| '_ \| | '__/ _ \/ _` |
   ____) | || (_| | |_| |  _| |_| | | \__ \ |_) | | | |  __/ (_| |
  |_____/ \__\__,_|\__, | |_____|_| |_|___/ .__/|_|_|  \___|\__,_|
-                   __/ |                 | |                     
-                  |___/                  |_|                     
+                   __/ |                 | |
+                  |___/                  |_|
 
 ```
 
-
-Let's **[get connected](https://www.linkedin.com/in/vinitshahdeo/)** if we share the same views! 
+Let's **[get connected](https://www.linkedin.com/in/vinitshahdeo/)** if we share the same views!
 Invite me to connect on **[LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**.
- 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
 
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo) [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
 
 > **One day your life will flash before your eyes. Make sure it is worth watching!**
 
 <hr>
 
-[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/inspirational-quotes) 
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/inspirational-quotes)
 [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/GetQuotes)
 [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/)
