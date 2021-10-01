@@ -4,7 +4,8 @@
   "description": "A simple NPM Package which returns Inspirational Quotes. Get your daily quote and stay motivated!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npm eslint"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,9 @@
   },
   "directories": {
     "example": "examples",
-    "data":"data"
+    "data": "data"
+  },
+  "dependencies": {
+    "eslint": "^7.10.0"
   }
 }
