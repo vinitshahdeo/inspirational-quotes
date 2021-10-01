@@ -4,7 +4,7 @@
 
 #### A simple [NPM](https://www.npmjs.com/package/inspirational-quotes) Package which returns random [Inspirational Quotes](https://vinitshahdeo.github.io/inspirational-quotes/). It provides awesome quotes to display in your application. Get your daily quote and stay motivated!
 
-**Click [here](https://www.npmjs.com/package/inspirational-quotes)** to view this package on **NPM** registry. Check the homepage **[here](https://vinitshahdeo.github.io/inspirational-quotes/)**.
+Click [here](https://www.npmjs.com/package/inspirational-quotes) to view this package on NPM registry. Check the homepage [here](https://vinitshahdeo.github.io/inspirational-quotes/).
 
 ## Getting started
 
@@ -65,7 +65,7 @@ getQuote({ author: false });
 -  `{ author: true }`: Returns a quote with author information
 -  `{ author: false }`: Returns a quote without author information
 
-> Note: Recommended to use `getQuote` with `{ author: false}` instead of `getRandomQuote` will be deprecated in further versions. It's available just to ensure the backward compatability.
+> **Note**: Recommended to use `getQuote` with `{ author: false}` instead of `getRandomQuote` as it will be deprecated in further versions. It's available just to ensure the backward compatability.
 
 ## Examples
 
@@ -91,7 +91,7 @@ $ node examples
 ## Contributing
 
 Do you know any inspirational quotes so one can start working by taking control over thoughts, thinking positively and setting new goals?
-Append your quote to `data.json` inside the data/ folder and raise the PR.
+Append your quote to `data.json` inside the `data/` directory and raise the PR.
 
 > Please check **[ISSUE [#4](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)]** : **[Add More Inspirational Quotes](https://github.com/vinitshahdeo/inspirational-quotes/issues/4)** (Recommended for beginners)
 
@@ -104,7 +104,7 @@ git clone https://github.com/vinitshahdeo/inspirational-quotes.git
 git checkout feature/new-quote
 ```
 
-- Head to `data/data.json`
+- Head to [`data/data.json`](./data/data.json)
 
 ```bash
 cd data
@@ -128,8 +128,8 @@ npm run test
 ```
 
 - Tests passed successfully?
- - If yes, please raise a pull request to add the quote
- - Otherwise, fix the tests and run the tests again
+   - If yes, please [raise a pull request](https://github.com/vinitshahdeo/inspirational-quotes/pulls) to add the quote
+   - Otherwise, fix the tests and run the tests again
 
 - Sit and relax! You've made your contribution. :tada:
 
@@ -144,7 +144,7 @@ npm run test
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
 
-## Author
+## Author 
 
 |                                                                                         <a href="https://vinitshahdeo.dev"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/vinit-shahdeo.jpg" width="150px " height="150px" /></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
