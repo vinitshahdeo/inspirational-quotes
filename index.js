@@ -13,7 +13,8 @@ module.exports.getRandomQuote = function () {
 };
 
 module.exports.getQuote = function (name) { 
-    var index = randomInt(0,324);
+    var totalQuotes = arr.length - 1;
+    var index = randomInt(0,totalQuotes);
     quote.text=arr[index].text;
     quote.author=arr[index].from;
     return quote;
