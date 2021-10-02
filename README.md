@@ -2,7 +2,7 @@
 
 [![NPM VERSION](http://img.shields.io/npm/v/inspirational-quotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/inspirational-quotes) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![npm collaborators](https://img.shields.io/npm/collaborators/inspirational-quotes.svg?logo=npm)](https://www.npmjs.com/package/inspirational-quotes) [![Snyk Vulnerabilities for npm package version](https://img.shields.io/snyk/vulnerabilities/npm/inspirational-quotes.svg?color=9cf&logo=snyk)](https://www.npmjs.com/package/inspirational-quotes) [![npm](https://img.shields.io/npm/dy/inspirational-quotes.svg?logo=npm&color=yellow)](https://www.npmjs.com/package/inspirational-quotes) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)
 
-#### A simple [NPM](https://www.npmjs.com/package/inspirational-quotes) Package which returns random [Inspirational Quotes](https://vinitshahdeo.github.io/inspirational-quotes/). It provides awesome quotes to display in your application. Get your daily quote and stay motivated!
+**A simple [NPM](https://www.npmjs.com/package/inspirational-quotes) Package which returns random [Inspirational Quotes](https://vinitshahdeo.github.io/inspirational-quotes/). It provides awesome quotes to display in your application. Get your daily quote and stay motivated!**
 
 Click [here](https://www.npmjs.com/package/inspirational-quotes) to view this package on NPM registry. Check the homepage [here](https://vinitshahdeo.github.io/inspirational-quotes/).
 
