@@ -1,4 +1,4 @@
-const quote = require('inspirational-quotes');
+const quote = require("inspirational-quotes");
 
 console.log(quote.getQuote());
 
