@@ -133,7 +133,7 @@ npm run test
 
 - Sit and relax! You've made your contribution. :tada:
 
-> **Disclaimer**: There're so many open pull requests. It's not possible for me to merge them all manually. I will write an automation script if that's possible. If you've an idea, please create a discussion. Happy to take it forward from there.
+> **Disclaimer**: There're so many open pull requests. It's not possible for me to merge them all manually. I will write an automation script if that's possible. If you've an idea, please feel free to share it on [discussions](https://github.com/vinitshahdeo/inspirational-quotes/discussions/2021). Happy to take it forward from there.
 
 
 ## Related Works
