@@ -65,7 +65,7 @@ getQuote({ author: false });
 -  `{ author: true }`: Returns a quote with author information
 -  `{ author: false }`: Returns a quote without author information
 
-> **Note**: Recommended to use `getQuote` with `{ author: false}` instead of `getRandomQuote` as it will be deprecated in further versions. It's available just to ensure the backward compatability.
+> **Note**: Recommended to use `getQuote` with `{ author: false}` option instead of `getRandomQuote` as it will be deprecated in the further versions. It's available just to ensure the backward compatability.
 
 ## Examples
 
@@ -73,7 +73,7 @@ To view the examples, clone the **inspirational-quotes** repo and install the de
 
 ```bash
 $ git clone https://github.com/vinitshahdeo/inspirational-quotes.git
-$ cd examples
+$ cd inspirational-quotes
 $ npm install
 ```
 
