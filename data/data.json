@@ -1,4 +1,4 @@
-﻿[  
+[  
    {  
       "text":"The only people who never fail are those who never try.",
       "from":"Ilka Chase"
@@ -18,6 +18,10 @@
    {  
       "text":"Only those who dare to fail greatly can ever achieve greatly.",
       "from":"John F. Kennedy"
+   },
+   {  
+      "text":"Unless in communicating with a computer one says exactly what one means, trouble is bound to result.",
+      "from":"Alan Turing, father of modern computer science"
    },
    {  
       "text":"It is hard to fail, but it is worse never to have tried to succeed.",
