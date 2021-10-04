@@ -31,6 +31,42 @@ describe('Running tests for methods of inspirational-quotes', () => {
             done();
         });
     });
+    describe('getQuoteByAuthorName', () => {
+        it('should return an array', (done) => {
+            const quotes = getQuoteByAuthorName();
+            expect(quotes).to.be.an('array');
+            done();
+        });
+        it('should contain text and author', (done) => {
+            const quotes = getQuoteByAuthorName('Ilka Chase');
+            expect(quotes).to.have.deep.members([{  
+                "text":"The only people who never fail are those who never try.",
+                "from":"Ilka Chase"
+            }]);
+            done();
+        });
+        it('should return empty array if name not match', (done) => {
+            const quotes = getQuoteByAuthorName('ilka chase');
+            expect(quotes).to.be.an('array');
+            expect(quotes).to.be.empty;
+            done();
+        });
+        it('should return array of object if name match by ignoreCase option', (done) => {
+            const quotes = getQuoteByAuthorName('ilka chase', {ignoreCase: true});
+            expect(quotes).to.have.deep.members([{  
+                "text":"The only people who never fail are those who never try.",
+                "from":"Ilka Chase"
+            }]);
+            done();
+        });
+        it('should not return author field if author: false is passed', (done) => {
+            const quotes = getQuoteByAuthorName('Ilka Chase', {author: false});
+            expect(quotes).to.have.deep.members([{  
+                "text":"The only people who never fail are those who never try."
+             }]);
+            done();
+        });
+    });
     describe('getRandomQuote', () => {
         it('should return a string', (done) => {
             const randomQuote = getRandomQuote();
