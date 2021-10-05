@@ -1,5 +1,9 @@
-﻿[  
-   {  
+﻿[
+    {  
+      "text":"May all beings have happy minds!",
+      "from":"Gyshie"
+   },   
+    {  
       "text":"The only people who never fail are those who never try.",
       "from":"Ilka Chase"
    },
@@ -67,9 +71,21 @@
       "text":"The mind that is anxious about future events is miserable.",
       "from":"Seneca"
    },
-   {  
+       {  
       "text":"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each.",
       "from":"Henry David Thoreau"
+   },
+   {  
+      "text":"NO MATTER HOW HARD THE PAST. YOU CAN ALWAYS BEGIN AGAIN.",
+      "from":"Lord Buddha"
+   },
+      {  
+      "text":"The tongue like a sharp knife. Killing without drawing blood.",
+      "from":"Lord Buddha"
+   },
+    {  
+      "text":"With our thoughts we make the world.",
+      "from":"Lord Buddha"
    },
    {  
       "text":"The art of leadership is saying no, not yes. It is very easy to say yes.",
@@ -126,6 +142,10 @@
    {  
       "text":"Insist on yourself. Never imitate.",
       "from":"Ralph Waldo Emerson"
+   },
+    {  
+      "text":"Radiate boundless love towards the entire world.",
+      "from":"Lord Buddha"
    },
    {  
       "text":"Who looks outside, dreams. Who looks inside, awakes.",
