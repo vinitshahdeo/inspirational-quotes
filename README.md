@@ -65,7 +65,7 @@ getQuote({ author: false });
 -  `{ author: true }`: Returns a quote with author information
 -  `{ author: false }`: Returns a quote without author information
 
-> **Note**: Recommended to use `getQuote` with `{ author: false}` option instead of `getRandomQuote` as it will be deprecated in the further versions. It's available just to ensure the backward compatability.
+> **Note**: Recommended to use `getQuote` with `{ author: false}` option instead of `getRandomQuote` as it will be deprecated in the further versions. It's available just to ensure backward compatibility.
 
 ## Examples
 
@@ -115,7 +115,7 @@ vi data.json
 
 ```js
  {  
-    "text":"Your new awesom quote",
+    "text":"Your new awesome quote",
     "from":"Name of author"
  }
 ```
@@ -133,12 +133,12 @@ npm run test
 
 - Sit and relax! You've made your contribution. :tada:
 
-> **Disclaimer**: There're so many open pull requests. It's not possible for me to merge them all manually. I will write an automation script if that's possible. If you've an idea, please feel free to share it on [discussions](https://github.com/vinitshahdeo/inspirational-quotes/discussions/2021). Happy to take it forward from there.
+> **Disclaimer**: There're so many open pull requests. I can't merge them all manually.  I will write an automation script if that's possible. If you've got an idea, please feel free to share it on [discussions](https://github.com/vinitshahdeo/inspirational-quotes/discussions/2021). Happy to take it forward from there.
 
 
 ## Related Works
 
-- Checkout [Quotter](https://vinitshahdeo.github.io/Quotter/) - A twitter bot which tweets random quotes with image and #hashtags!
+- Checkout [Quotter](https://vinitshahdeo.github.io/Quotter/) - A Twitter bot that tweets random quotes with images and #hashtags!
 
 - Click [here](https://github.com/vinitshahdeo/inspirational-quotes/network/dependents?package_id=UGFja2FnZS0yMTk1NjcyNDQ%3D) to view applications created by open-source community using this module.
 
