@@ -1,4 +1,20 @@
 ﻿[  
+    {
+       "text": "Knowlwdge is Power.",
+       "from" : "Francis Bacon"
+    },
+    {
+       "text" : "Java is to javascript what car is to carpet.",
+       "from" : "Chris Heilmann"
+    },
+    {
+       "text" : "In order to be irreplaceable one must always be different.",
+       "from" : "Coco Chanel"
+    },
+    {
+       "text" : "Fix the cause not the symptom.",
+       "from" : "Steve Maguire"
+    },
    {  
       "text":"The only people who never fail are those who never try.",
       "from":"Ilka Chase"
