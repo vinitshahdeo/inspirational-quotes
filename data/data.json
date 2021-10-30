@@ -400,6 +400,10 @@
       "from":"Abraham Lincoln"
    },
    {  
+      "text":"It's not the years in your life that count. It's the life in your years.",
+      "from":"Abraham Lincoln"
+   },
+   {  
       "text":"Associate yourself with people of good quality, for it is better to be alone than in bad company",
       "from":"Booker T. Washington"
    },
@@ -1302,5 +1306,9 @@
    {  
       "text":"I learned not to worry so much about the outcome, but to concentrate on the step I was on and to try to do it as perfectly as I could when I was doing it.",
       "from":"Steve Wozniak, Co-Founder of Apple"
-   }
+   },
+   {  
+      "text":"We all make choices in life, but in the end our choices make us.",
+      "from":"Andrew Ryan, Bioshock"
+   },
 ]
