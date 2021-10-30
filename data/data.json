@@ -3,6 +3,22 @@
       "text":"The only people who never fail are those who never try.",
       "from":"Ilka Chase"
    },
+   {
+      "text":"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+      "from":"Winston Churchill"
+   },
+   {
+      "text":"All of us, at some time or other, need help. Whether we're giving or receiving help, each one of us has something valuable to bring to this world. That's one of the things that connects us as neighbors--in our own way, each one of us is a giver and a receiver.",
+      "from":"Mr. Rogers"
+   },
+   {
+      "text": "The most worth-while thing is to try to put happiness into the lives of others.", 
+      "from": "Sir Baden-Powell"
+   },
+   {
+      "text": "People who are crazy enough to think they can change the world, are the ones who do.",
+      "from": "Rob Siltanen"
+   },
    {  
       "text":"Failure is just another way to learn how to do something right.",
       "from":"Marian Wright Edelman"
@@ -877,7 +893,7 @@
    },
    {  
       "text":"We make a living by what we get. But we make a life by what we give.",
-      "from":"Winston Churchhill"
+      "from":"Winston Churchill"
    },
    {  
       "text":"Believe that you will succeed",
