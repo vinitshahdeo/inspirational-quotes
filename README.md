@@ -115,7 +115,7 @@ vi data.json
 
 ```js
  {  
-    "text":"Your new awesom quote",
+    "text":"Your Awesome Quote",
     "from":"Name of author"
  }
 ```
