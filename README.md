@@ -135,6 +135,9 @@ npm run test
 
 > **Disclaimer**: There're so many open pull requests. It's not possible for me to merge them all manually. I will write an automation script if that's possible. If you've an idea, please feel free to share it on [discussions](https://github.com/vinitshahdeo/inspirational-quotes/discussions/2021). Happy to take it forward from there.
 
+## Stargazer :heart:
+
+[![Stargazers repo roster for @vinitshahdeo/inspirational-quotes](https://reporoster.com/stars/vinitshahdeo/inspirational-quotes)](https://github.com/vinitshahdeo/inspirational-quotes/stargazers)
 
 ## Related Works
 
