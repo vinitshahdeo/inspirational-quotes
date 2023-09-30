@@ -43,4 +43,11 @@ describe('Running tests for methods of inspirational-quotes', () => {
             done();
         });
     });
+    describe('Verify duplicate quotes in data array', () => {
+        it('should correct array without duplicate quotes', (_done) => {
+            const quotes = require('../data/data.json');
+            let findDuplicates = arr => arr.filter((item, index) => arr.indexOf(item) !== index)
+            console.log(findDuplicates(quotes)) 
+        } )
+    })
 });
