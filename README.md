@@ -16,6 +16,7 @@ $ npm install --save inspirational-quotes
 
 ## Installation
 
+[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=flat&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) [![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=flat&logo=node.js)](https://nodejs.org/en/) [![inspirational-quotes](http://img.shields.io/badge/npm-inspirational--quotes-red.svg?style=flat&logo=npm)](https://www.npmjs.com/package/inspirational-quotes)
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
@@ -41,7 +42,7 @@ console.log(Quote.getRandomQuote()); // return any random quote
 
 ```
 
-- ***getQuote()*** method returns an object containing ***text*** and ***author***.
+- **_getQuote()_** method returns an object containing **_text_** and **_author_**.
 
 ```json
  {  
@@ -61,6 +62,7 @@ Additionally you can provide `options` to `getQuote` method. By default `{ autho
 getQuote({ author: false });
 
 ```
+
 
 -  `{ author: true }`: Returns a quote with author information
 -  `{ author: false }`: Returns a quote without author information
@@ -147,6 +149,7 @@ npm run test
 
 > I'll be more than happy to know if you build something using [this](https://www.npmjs.com/package/inspirational-quotes) module. Tweet your work at [@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo)
 
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo)
 
 ## Author 
@@ -167,16 +170,29 @@ Thank you for being here! **One day your life will flash before your eyes. Make 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vinitshahdeo)
 
-
 ```
 
-   _____ _                _____                 _              _ 
+   _____ _                _____                 _              _
   / ____| |              |_   _|               (_)            | |
  | (___ | |_ __ _ _   _    | |  _ __  ___ _ __  _ _ __ ___  __| |
   \___ \| __/ _` | | | |   | | | '_ \/ __| '_ \| | '__/ _ \/ _` |
   ____) | || (_| | |_| |  _| |_| | | \__ \ |_) | | | |  __/ (_| |
  |_____/ \__\__,_|\__, | |_____|_| |_|___/ .__/|_|_|  \___|\__,_|
-                   __/ |                 | |                     
-                  |___/                  |_|                     
+                   __/ |                 | |
+                  |___/                  |_|
 
 ```
+
+Let's **[get connected](https://www.linkedin.com/in/vinitshahdeo/)** if we share the same views!
+Invite me to connect on **[LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**.
+
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo) [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
+
+> **One day your life will flash before your eyes. Make sure it is worth watching!**
+
+<hr>
+
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/inspirational-quotes)
+[![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/GetQuotes)
+[![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/)
+
