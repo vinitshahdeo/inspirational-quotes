@@ -1,4 +1,4 @@
-# Inspirational Quotes
+# Inspirational Quotes This repo is excluded from Hacktoberfest. Kindly use it for learning purposes only
 
 [![NPM VERSION](http://img.shields.io/npm/v/inspirational-quotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/inspirational-quotes) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![npm collaborators](https://img.shields.io/npm/collaborators/inspirational-quotes.svg?logo=npm)](https://www.npmjs.com/package/inspirational-quotes) [![Snyk Vulnerabilities for npm package version](https://img.shields.io/snyk/vulnerabilities/npm/inspirational-quotes.svg?color=9cf&logo=snyk)](https://www.npmjs.com/package/inspirational-quotes) [![npm](https://img.shields.io/npm/dy/inspirational-quotes.svg?logo=npm&color=yellow)](https://www.npmjs.com/package/inspirational-quotes) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)
 
