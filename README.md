@@ -37,6 +37,8 @@ const Quote = require('inspirational-quotes');
 
 console.log(Quote.getQuote()); // returns quote (text and author)
 console.log(Quote.getQuote({ author: false }); // return quote without author
+console.log(Quote.getQuoteByAuthorName('Thomas Edison', { ignoreCase: true }); // return quote by author ignore case
+console.log(Quote.getQuoteByAuthorName('Thomas Edison'); // return quote by author case sensitive
 console.log(Quote.getRandomQuote()); // return any random quote
 
 ```
@@ -44,10 +46,19 @@ console.log(Quote.getRandomQuote()); // return any random quote
 - ***getQuote()*** method returns an object containing ***text*** and ***author***.
 
 ```json
- {  
+ {
     "text":"My number one piece of advice is: you should learn how to program.",
     "author":"Mark Zuckerberg, founder of Facebook"
  }
+ ```
+
+- ***getQuoteByAuthorName(name)*** method returns an array of object containing ***text*** and ***author***.
+
+```json
+ [{
+    "text":"My number one piece of advice is: you should learn how to program.",
+    "author":"Mark Zuckerberg, founder of Facebook"
+ }]
  ```
 
 - ***getRandomQuote()*** method returns a random **inspirational** quote : *`You miss 100 percent of the shots you don’t take.`*
