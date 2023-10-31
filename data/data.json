@@ -1,4 +1,8 @@
 ﻿[  
+    {  
+      "text":"Every man dies, but not every man really lives",
+      "from":"Braveheart"
+   },
    {  
       "text":"The only people who never fail are those who never try.",
       "from":"Ilka Chase"
@@ -1302,5 +1306,9 @@
    {  
       "text":"I learned not to worry so much about the outcome, but to concentrate on the step I was on and to try to do it as perfectly as I could when I was doing it.",
       "from":"Steve Wozniak, Co-Founder of Apple"
+   }
+     {  
+      "text":"Do, or do not. There is no “try",
+      "from":"Star Wars: Episode V – The Empire Strikes Back"
    }
 ]
