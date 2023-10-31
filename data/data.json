@@ -1303,4 +1303,8 @@
       "text":"I learned not to worry so much about the outcome, but to concentrate on the step I was on and to try to do it as perfectly as I could when I was doing it.",
       "from":"Steve Wozniak, Co-Founder of Apple"
    }
+   {  
+      "text":" Bad programmers worry about the code. Good programmers worry about data structures and their relationships .",
+      "from":" Linus Benedict Torvalds, main developer of the Linux kernel "
+   }
 ]
