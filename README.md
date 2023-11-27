@@ -2,7 +2,7 @@
 
 [![NPM VERSION](http://img.shields.io/npm/v/inspirational-quotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/inspirational-quotes) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/inspirational-quotes.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/blob/master/LICENSE) [![npm collaborators](https://img.shields.io/npm/collaborators/inspirational-quotes.svg?logo=npm)](https://www.npmjs.com/package/inspirational-quotes) [![Snyk Vulnerabilities for npm package version](https://img.shields.io/snyk/vulnerabilities/npm/inspirational-quotes.svg?color=9cf&logo=snyk)](https://www.npmjs.com/package/inspirational-quotes) [![npm](https://img.shields.io/npm/dy/inspirational-quotes.svg?logo=npm&color=yellow)](https://www.npmjs.com/package/inspirational-quotes) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/vinitshahdeo/inspirational-quotes/pulls)
 
-#### A simple [NPM](https://www.npmjs.com/package/inspirational-quotes) Package which returns random [Inspirational Quotes](https://vinitshahdeo.github.io/inspirational-quotes/). It provides awesome quotes to display in your application. Get your daily quote and stay motivated!
+**A simple [NPM](https://www.npmjs.com/package/inspirational-quotes) Package which returns random [Inspirational Quotes](https://vinitshahdeo.github.io/inspirational-quotes/). It provides awesome quotes to display in your application. Get your daily quote and stay motivated!**
 
 Click [here](https://www.npmjs.com/package/inspirational-quotes) to view this package on NPM registry. Check the homepage [here](https://vinitshahdeo.github.io/inspirational-quotes/).
 
@@ -65,7 +65,7 @@ getQuote({ author: false });
 -  `{ author: true }`: Returns a quote with author information
 -  `{ author: false }`: Returns a quote without author information
 
-> **Note**: Recommended to use `getQuote` with `{ author: false}` instead of `getRandomQuote` as it will be deprecated in further versions. It's available just to ensure the backward compatability.
+> **Note**: Recommended to use `getQuote` with `{ author: false}` option instead of `getRandomQuote` as it will be deprecated in the further versions. It's available just to ensure the backward compatability.
 
 ## Examples
 
@@ -73,7 +73,7 @@ To view the examples, clone the **inspirational-quotes** repo and install the de
 
 ```bash
 $ git clone https://github.com/vinitshahdeo/inspirational-quotes.git
-$ cd examples
+$ cd inspirational-quotes
 $ npm install
 ```
 
@@ -115,7 +115,7 @@ vi data.json
 
 ```js
  {  
-    "text":"Your new awesom quote",
+    "text":"Your Awesome Quote",
     "from":"Name of author"
  }
 ```
@@ -133,6 +133,11 @@ npm run test
 
 - Sit and relax! You've made your contribution. :tada:
 
+> **Disclaimer**: There're so many open pull requests. It's not possible for me to merge them all manually. I will write an automation script if that's possible. If you've an idea, please feel free to share it on [discussions](https://github.com/vinitshahdeo/inspirational-quotes/discussions/2021). Happy to take it forward from there.
+
+## Stargazer :heart:
+
+[![Stargazers repo roster for @vinitshahdeo/inspirational-quotes](https://reporoster.com/stars/vinitshahdeo/inspirational-quotes)](https://github.com/vinitshahdeo/inspirational-quotes/stargazers)
 
 ## Related Works
 

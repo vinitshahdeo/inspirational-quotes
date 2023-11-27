@@ -1,5 +1,9 @@
-const expect = require('chai').expect,
-    { getQuote, getRandomQuote } = require('../lib/index');
+const expect = require('chai').expect;
+const { getQuote, getRandomQuote } = require('../lib/index');
+const fs = require('fs');
+const path = require('path');
+
+
 
 describe('Running tests for methods of inspirational-quotes', () => {
     describe('getQuote', () => {
@@ -41,6 +45,15 @@ describe('Running tests for methods of inspirational-quotes', () => {
             const randomQuote = getRandomQuote();
             expect(randomQuote).to.have.length.greaterThan(5);
             done();
+        });
+    });
+    describe('Data.json', () => {
+        const dataFilePath = path.resolve(__dirname, '..', 'lib', 'data.json');
+        const allQuotes = JSON.parse(fs.readFileSync(dataFilePath));
+
+        it('should not have duplicate quotes', () => {
+            const uniqueQuotes = new Set(allQuotes.map(quote => `${quote.text} - ${quote.author}`));
+            expect(uniqueQuotes.size).to.equal(allQuotes.length);
         });
     });
 });
