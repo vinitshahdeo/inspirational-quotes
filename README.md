@@ -69,7 +69,7 @@ getQuote({ author: false });
 
 ## Examples
 
-To view the examples, clone the **inspirational-quotes** repo and install the dependencies:
+To view the examples, please clone the **inspirational-quotes** repo and install the dependencies:
 
 ```bash
 $ git clone https://github.com/vinitshahdeo/inspirational-quotes.git
