@@ -1,4 +1,4 @@
-﻿[  
+[  
    {  
       "text":"The only people who never fail are those who never try.",
       "from":"Ilka Chase"
@@ -1306,5 +1306,9 @@
    {
       "text":"When you have a dream, you've got to grab it and never let go.",
       "from":"Carol Burnett"
+   },
+   {
+      "text":"Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "from":"Winston Churchill"
    }
 ]
