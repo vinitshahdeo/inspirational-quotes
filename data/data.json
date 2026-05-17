@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "text": "The only people who never fail are those who never try.",
     "from": "Ilka Chase"
@@ -1322,5 +1322,45 @@
   {
     "text": "Learning never exhausts the mind.",
     "from": "Leonardo da Vinci, Renaissance Polymath"
+  },
+  {
+    "text": "知之者不如好之者，好之者不如乐之者。",
+    "author": "孔子"
+  },
+  {
+    "text": "为中华之崛起而读书。",
+    "author": "周恩来"
+  },
+  {
+    "text": "科学技术是第一生产力。",
+    "author": "邓小平"
+  },
+  {
+    "text": "敢想敢干，摸着石头过河。",
+    "author": "邓小平"
+  },
+  {
+    "text": "Keep it simple, make it happen.",
+    "author": "Jack Ma"
+  },
+  {
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker"
+  },
+  {
+    "text": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Any sufficiently advanced technology is indistinguishable from magic.",
+    "author": "Arthur C. Clarke"
+  },
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
   }
 ]
